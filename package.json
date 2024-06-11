@@ -1,9 +1,0 @@
-{
-  "private": true,
-  "scripts": {
-    "format": "prettier -cw ."
-  },
-  "devDependencies": {
-    "prettier": "^3.2.5"
-  }
-}
